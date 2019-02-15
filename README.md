@@ -16,7 +16,7 @@ Play around with a Live Demo at https://codesandbox.io/s/912v62y7my
 To run this project:
 
 ```bash
-git clone https://github.com/Cogoport/react-hooks-typeahead
+git clone https://github.com/Cogoport/react-hooks-typeahead-demo
 
 yarn install
 
