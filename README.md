@@ -2,7 +2,7 @@
 
 This is a demo showcasing a basic async typeahead built using React Hooks, in just under 50 lines. 
 
-Play around with a Live Demo at https://codesandbox.io/s/912v62y7my
+Play around with a Live Demo at https://codesandbox.io/s/n3wkz1j70j
 
 ## Features
 
