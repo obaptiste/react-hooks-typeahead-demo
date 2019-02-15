@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useCallback } from "react";
 
 import { useLocations } from "../../hooks/locations";
 import { Container, Input, Options, Option } from "./styles";
@@ -8,12 +8,12 @@ const Location = ({ value, onChange, placeholder }) => {
 	const [showOptions, setShowOptions] = useState(false);
 	const { locations, isLoading } = useLocations(searchString);
 
-	const handleInputChange = e => {
+	const handleInputChange = useCallback(e => {
 		if(!(value.name && (e.target.value.length < value.name.length))){ // For Clearing Selected Input
 			setSearchString(e.target.value);
 		}
 		onChange({});
-	}
+	}, [value.name])
 	
 	return <Container>
 		<Input

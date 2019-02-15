@@ -6,6 +6,8 @@ This is a demo showcasing a basic async typeahead built using React Hooks, in ju
 - Debounced API Call on every key stroke
 - Using hooks like `useState`, `useEffect` and `useCallback`.
 
+The typeahead is in `components/Location/`
+
 ## Get Started
 
 To run this project:
@@ -17,6 +19,8 @@ yarn install
 
 yarn dev
 ```
+
+Project runs on `localhost:3000`
 
 ## Note
 
