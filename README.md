@@ -1,6 +1,6 @@
-# React Hooks - Typeahead (Autocomplete)
+# React Hooks - Typeahead
 
-This is a demo showcasing how easy it is to build a basic async typeahead (autocomplete) using React Hooks, in just under 50 lines.
+This is a demo showcasing a basic async typeahead built using React Hooks, in just under 50 lines.
 
 - Fetching Data Asynchronously using axios from [https://restcountries.eu/](https://restcountries.eu/)
 - Debounced API Call on every key stroke
