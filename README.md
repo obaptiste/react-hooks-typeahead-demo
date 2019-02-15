@@ -1,12 +1,13 @@
 # React Hooks - Typeahead Demo
 
-This is a demo showcasing a basic async typeahead built using React Hooks, in just under 50 lines.
+This is a demo showcasing a basic async typeahead built using React Hooks, in just under 50 lines. Play around with a Live Demo at https://codesandbox.io/s/912v62y7my
 
+## Features
+
+- The typeahead is in `components/Location/index.js`, if you want to dive straight into the code.
 - Fetching Data Asynchronously using axios from [https://restcountries.eu/](https://restcountries.eu/)
 - Debounced API Call on every key stroke
 - Using hooks like `useState`, `useEffect` and `useCallback`.
-
-The typeahead is in `components/Location/`
 
 ## Get Started
 
@@ -36,4 +37,4 @@ This typeahead may not be production ready. It is meant mainly for the purpose o
 
 ![Cogoport](https://www.cogoport.com/static/images/cogoport-logo.png)
 
-We are hiring great engineers in Mumbai & Bangalore, India. Join us at [Cogoport](https://www.cogoport.com/careers).
+We are hiring great engineers in Mumbai & Bangalore, India. Join us at [Cogoport](https://www.cogoport.com/careers?utm=react-typeahead-github).
