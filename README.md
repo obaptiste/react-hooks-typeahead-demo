@@ -37,6 +37,4 @@ This typeahead may not be production ready. It is meant mainly for the purpose o
 
 ### Side Note
 
-![Cogoport](https://www.cogoport.com/static/images/cogoport-logo.png)
-
 We are hiring great engineers in Mumbai & Bangalore, India. Join us at [Cogoport](https://www.cogoport.com/careers?utm=react-typeahead-github).
